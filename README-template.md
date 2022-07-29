@@ -14,7 +14,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Soltution](https://github.com/ankitgupta61/toDoApp)
-- Live Site URL: [Live site Link](https://ankitproject-todoapp.netlify.app/)
+- Solution URL: [https://github.com/ankitgupta61/toDoApp](https://github.com/ankitgupta61/toDoApp)
+- Live Site URL: [https://ankitproject-todoapp.netlify.app/](https://ankitproject-todoapp.netlify.app/)
 
 ## My process
 
@@ -54,7 +54,7 @@ Users should be able to:
 
 ### What I learned
 
-While doing this challenge I have learnt to build logics for multiple functionality such toggling effect(dark/light theme), adding elements in HTML markup, filtering items and most importantly simultaneously  managing all these functionalities. 
+While doing this challenge I have learnt to build logics for multiple functionality such toggling effect(dark/light theme), adding elements in HTML markup, filtering items and most importantly simultaneously  managing all these functionalities. I have learnt to meet the design expectation with HTML,CSS, JavaScript
 
 
 ### Continued development
