@@ -1,6 +1,6 @@
-# JavaSrcipt Mini Project/Frontend Mentor-Todo app solution
+# NestedCommentSection
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges helped me to improve my coding skills by building realistic projects. 
+This is a webpage where multiple comments can be added and those comments can have replies,likes & delete functionalities.
 
 ## Table of contents
 
@@ -23,23 +23,21 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the webpage depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Add new todos to the list
-- Mark todos as complete
-- Delete todos from the list
-- Filter by all/active/complete todos
-- Clear all completed todos
-- Toggle light and dark mode
+- Can add multiple comments
+- Comments can have replies
+- Comments and replies can be liked
+- Comments and replies can be deleted
 
 ### Screenshot
 
-![](.images/screenshot.jpg)
+![](.images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/ankitgupta61/toDoApp](https://github.com/ankitgupta61/toDoApp)
+- Solution URL: [https://github.com/ankitgupta61/YoutubeLikeNestedComment](https://github.com/ankitgupta61/YoutubeLikeNestedComment)
 - Live Site URL: [https://ankitproject-todoapp.netlify.app/](https://ankitproject-todoapp.netlify.app/)
 
 ## My process
@@ -48,18 +46,16 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- MediaQuery
-- JavaSrcipt 
+- JavaSrcipt Event Listener
 
 ### What I learned
 
-While doing this challenge I have learnt to build logics for multiple functionality such toggling effect(dark/light theme), adding elements in HTML markup, filtering items and most importantly simultaneously  managing all these functionalities. I have learnt to meet the design expectation with HTML,CSS, JavaScript
+While doing this project I have implemented the Javascript functionality of event Listener. Project helped to polish my css skills as well as JavaScript skills to render something which was running in my mind for nesting comments. I have learnt to implement HTML,CSS,JavaScript to meet design expectation.
 
 
 ### Continued development
 
-This is an app which on refresh backs to its initial state. Further, I'll make this app to be used by multiple users adding the login details functionality and storing their data to prevent webpage going back to initial state.
+This is the nestedCommentSection which on refresh backs to its initial state. Further, I'll make this to sustain it by providing login system.
 
 
 ### Useful resources
@@ -72,4 +68,4 @@ This is an app which on refresh backs to its initial state. Further, I'll make t
 ## Author
 
 - Website - [Ankit Gupta](https://www.linkedin.com/in/ankitgupta3093/)
-- Frontend Mentor - [@ankitgupta61](https://www.frontendmentor.io/profile/ankitgupta61)
+
